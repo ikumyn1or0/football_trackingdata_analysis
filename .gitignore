@@ -1,0 +1,4 @@
+*.lock
+/sample-data/*
+/output/*
+/LaurieOnTracking/*

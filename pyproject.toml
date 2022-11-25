@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "poetry-footballtrackingdata"
+version = "0.1.0"
+description = ""
+authors = ["ikumyn1or0 <19ming3@gmail.com>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "3.9.15"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+notebook = "*"
+scipy = "*"
+ipykernel = "*"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
